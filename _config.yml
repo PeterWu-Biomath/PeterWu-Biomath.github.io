@@ -1,0 +1,27 @@
+title: Pei Wu
+email: wupei5060309031@gmail.com
+description: >-
+  Senior Data Scientist — Computational Biology, Bioinformatics, Machine Learning.
+  Personal academic homepage.
+baseurl: ""
+url: "https://peterwu-biomath.github.io"
+github_username: PeterWu-Biomath
+
+# Theme
+remote_theme: jekyll/minima
+
+# Minima theme settings
+minima:
+  skin: classic
+  social_links:
+    - { platform: github, user_url: "https://github.com/PeterWu-Biomath" }
+
+# Site navigation
+header_pages:
+  - index.md
+  - publications.md
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
