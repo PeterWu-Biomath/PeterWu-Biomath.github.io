@@ -56,9 +56,9 @@ Currently at **3DMed Diagnostics** in Shanghai.
 
 ## Skills
 
-**Languages:** C++, Python, MATLAB, Perl
-**Domains:** Machine Learning, Deep Learning, Image Processing, Data Modeling
-**Tools:** Cursor, Claude Code
+- **Languages:** C++, Python, MATLAB, Perl
+- **Domains:** Machine Learning, Deep Learning, Image Processing, Data Modeling
+- **Tools:** Cursor, Claude Code
 
 ## Miscellaneous
 
@@ -66,7 +66,7 @@ Currently at **3DMed Diagnostics** in Shanghai.
   A typesetting project for the book *Residues and Duality* by Robin Hartshorne.
 - **[Completeness of Bethe Ansatz](https://www.bananaspace.org/wiki/%E7%94%A8%E6%88%B7:Belavin/Bethe_ansatz%E7%9A%84%E5%AE%8C%E5%A4%87%E6%80%A7)** —
   Notes on the completeness of the Bethe ansatz from the perspective of intersection
-  theory (BKK theorem).
+  theory (BKK theorem), in Chinese.
 
 ## Contact
 
