@@ -58,7 +58,7 @@ Currently at **3DMed Diagnostics** in Shanghai.
 
 - **Languages:** C++, Python, MATLAB, Perl
 - **Domains:** Machine Learning, Deep Learning, Image Processing, Data Modeling
-- **Tools:** Cursor, Claude Code
+- **AI Tools:** Cursor, Claude Code
 
 ## Miscellaneous
 
