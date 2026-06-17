@@ -5,11 +5,11 @@ title: Home
 
 ## About Me
 
-I am a **Senior Data Scientist** with a background in math, physics, bioinformatics,
+I am a **Freelance Programmer** with a background in math, physics, bioinformatics,
 and computational biology. My work spans phylogenetics, bioinformatics algorithm
 development, and pathology image analysis.
 
-Currently at **3DMed Diagnostics** in Shanghai.
+Before that I was at **3DMed Diagnostics** in Shanghai.
 
 ## Education
 
