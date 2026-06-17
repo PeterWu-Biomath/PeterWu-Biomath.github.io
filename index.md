@@ -62,11 +62,18 @@ Currently at **3DMed Diagnostics** in Shanghai.
 
 ## Miscellaneous
 
+- **[Valis_X](https://github.com/PeterWu-Biomath/Valis_X)** —
+  A simplified, in-memory refactoring of [VALIS](https://github.com/MathOnco/valis) (Virtual
+  Alignment of pathoLogy Image Series) for whole-slide image registration.
+  Focuses on pair-wise rigid + non-rigid registration with all operations
+  in memory — format-agnostic, no intermediate disk I/O, and deployable
+  across platforms.
 - **[Residues and Duality — TeX typesetting](https://github.com/PeterWu-Biomath/Residues-and-Duality-Tex)** —
   A typesetting project for the book *Residues and Duality* by Robin Hartshorne.
 - **[Completeness of Bethe Ansatz](/assets/BA.pdf)** —
   Notes on the completeness of the Bethe ansatz from the perspective of intersection theory (BKK theorem). Chinese ver.
   [[wiki](https://www.bananaspace.org/wiki/%E7%94%A8%E6%88%B7:Belavin/Bethe_ansatz%E7%9A%84%E5%AE%8C%E5%A4%87%E6%80%A7)]
+
 
 ## Contact
 
