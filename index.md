@@ -68,6 +68,16 @@ Before that I was at **3DMed Diagnostics** in Shanghai.
   Focuses on pair-wise rigid + non-rigid registration with all operations
   in memory — format-agnostic, no intermediate disk I/O, and deployable
   across platforms.
+- **[BWA-Capture](https://github.com/PeterWu-Biomath/bwa)** —
+  Targeted alignment for panel/exome sequencing that extends BWA with a capture
+  sub-index. Reads from target regions are aligned through a dense suffix array
+  with an uncompressed OCC table built exclusively over regions of interest,
+  while off-target reads fall back to the full genome BWT. A position table with
+  run-length-encoded lookup maps sub-SA intervals to genome SA intervals for
+  seamless cross-boundary alignment. Precomputed perfect-alignment caching skips
+  chaining, Smith-Waterman, and deduplication for reads matching a target region
+  exactly. Produces results identical to standard BWA — drops into existing
+  pipelines without downstream validation.
 - **[Residues and Duality — TeX typesetting](https://github.com/PeterWu-Biomath/Residues-and-Duality-Tex)** —
   A typesetting project for the book *Residues and Duality* by Robin Hartshorne.
 - **[Completeness of Bethe Ansatz](/assets/BA.pdf)** —
