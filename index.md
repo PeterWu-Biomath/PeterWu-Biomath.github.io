@@ -25,7 +25,7 @@ Before that I was at **3DMed Diagnostics** in Shanghai.
 - **Postdoctoral Fellow**, Dept. of Mathematics, Simon Fraser University — 2017–2018
   *(Supervisors: Paul Tupper & David Bryant)*
 
-## Selected Projects
+## Working experience
 
 - **LymphFind** (2025–2026) — End-to-end automatic lymph node metastasis detection
   in whole-slide pathology images. CTransPath vision transformer backbone with
@@ -47,20 +47,13 @@ Before that I was at **3DMed Diagnostics** in Shanghai.
 - **Alibaba Math Competition**, Bronze Prize — 2020, 2024
 - **IMPRS Academic Exchange** — University of Otago (3 months), 2014
 
-## Academic Presentations
-
-- *On Maximal Cardinality of 2-Weakly Compatible Split Systems*, AHU-USTC Joint
-  Seminar on Algebraic Combinatorics, Hefei — 2016
-- *On Neighbor Graph Associated to Split Systems*, Discrete Math Seminar,
-  Simon Fraser University — 2017
-
 ## Skills
 
 - **Languages:** C++, Python, MATLAB, Perl
 - **Domains:** Machine Learning, Deep Learning, Image Processing, Data Modeling
-- **AI Tools:** Cursor, Claude Code
+- **AI Tools:** Cursor, Claude Code, Codex
 
-## Miscellaneous
+## Side projects
 
 - **[Valis_X](https://github.com/PeterWu-Biomath/Valis_X)** —
   A simplified, in-memory refactoring of [VALIS](https://github.com/MathOnco/valis) (Virtual
@@ -79,10 +72,10 @@ Before that I was at **3DMed Diagnostics** in Shanghai.
   exactly. Produces results identical to standard BWA — drops into existing
   pipelines without downstream validation.
 - **[Residues and Duality — TeX typesetting](https://github.com/PeterWu-Biomath/Residues-and-Duality-Tex)** —
-  A typesetting project for the book *Residues and Duality* by Robin Hartshorne.
+  A typesetting project for the book *Residues and Duality* by Robin Hartshorne. There are alternatives like (https://zhuanlan.zhihu.com/p/2091155695580231224)
 - **[Completeness of Bethe Ansatz](/assets/BA.pdf)** —
   Notes on the completeness of the Bethe ansatz from the perspective of intersection theory (BKK theorem). Chinese ver.
-  [[wiki](https://www.bananaspace.org/wiki/%E7%94%A8%E6%88%B7:Belavin/Bethe_ansatz%E7%9A%84%E5%AE%8C%E5%A4%87%E6%80%A7)]
+  [[github](https://github.com/PeterWu-Biomath/Bananaspace_backup/blob/main/07-Bethe%20ansatz%E7%9A%84%E5%AE%8C%E5%A4%87%E6%80%A7.tex)]
 
 
 ## Contact
