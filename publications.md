@@ -4,6 +4,20 @@ title: Publications
 permalink: /publications/
 ---
 
+## Preprints
+
+1. **Wu, P.** (2026).
+   *Polynomial-in-$r$ bounds for forbidden traces of uniform hypergraphs.*
+   [arXiv:2610.08151](https://arxiv.org/abs/2610.08151).
+
+2. Anstee, R. P., Sali, A., **Wu, P.** (2026).
+   *Forbidding $r$-extension of $C_4$ -- a counterexample of the Anstee-Sali conjecture.*
+   [arXiv:2610.13987](https://arxiv.org/abs/2610.13987).
+
+3. **Wu, P.**, Grünewald, S. (2026).
+   *On the maximum size of 2-weakly compatible split systems.*
+   [arXiv:2608.23275](https://arxiv.org/abs/2608.23275).
+
 ## Journal Articles
 
 1. **Liu C, Wu P**, Wu X, Zhao X, Chen F, Cheng X, Zhu H, Wang O, Xu M (2024).
