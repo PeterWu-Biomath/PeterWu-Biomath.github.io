@@ -59,6 +59,22 @@ with computation.
   for targeted sequencing alignment, using a capture sub-index and
   perfect-alignment caching to accelerate reads from panel and exome regions.
 
+## Planned Projects
+
+- **Errata for G&H** — Griffiths and Harris's *Principles of Algebraic Geometry*
+  is a beautiful and inspiring book, revealing elegant connections between complex
+  analysis, geometry, and topology and covering a wealth of material rarely foundy 
+  in other textbooks. It also contains numerous errors and typos. A careful review
+  is time-consuming, but LLM assistance may now make a systematic audit feasible.
+  This project aims to compile corrections and clarifications to help readers
+  navigate the text and appreciate its ideas.
+- **TeXstudio with Project Support** — Add explicit, folder-based project management
+  to TeXstudio. A primary design is to open a folder as a project, mimicing VS Code,
+  with a file explorer for browsing and organizing source files, figures,
+  bibliographies, and notes. Support for opening multiple project folders in a
+  workspace would make it easier to navigate, search, and manage files across
+  projects. 
+
 ## Background and Experience
 
 ### Education
