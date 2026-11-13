@@ -18,6 +18,12 @@ permalink: /publications/
    *On the maximum size of 2-weakly compatible split systems.*
    [arXiv:2608.23275](https://arxiv.org/abs/2608.23275).
 
+4. **Wu, P.** (2026).
+   *Completeness of the Bethe Ansatz.*
+   [Zenodo](https://zenodo.org/records/23833204) ·
+   [PDF](/assets/Bethe-ansatz.pdf) ·
+   [GitHub](https://github.com/PeterWu-Biomath/Bethe-ansatz).
+
 ## Journal Articles
 
 1. **Liu C, Wu P**, Wu X, Zhao X, Chen F, Cheng X, Zhu H, Wang O, Xu M (2024).

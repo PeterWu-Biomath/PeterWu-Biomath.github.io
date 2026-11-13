@@ -25,8 +25,5 @@ theory. Each entry is a PDF compiled from the LaTeX sources in [`tex/`](https://
 6. **[Boson–Fermion Correspondence and the Jacobi Identity](/assets/06-boson-fermion-correspondence.pdf)** —
    Bosonic and fermionic Fock spaces and the boson–fermion correspondence.
 
-7. **[Completeness of the Bethe Ansatz](/assets/07-completeness-of-bethe-ansatz.pdf)** —
-   Counting Bethe roots via the BKK theorem, multiplicities, and roots at infinity. Published in https://zenodo.org/records/23833204
-
-8. **[A Guide to the Yellow Book](/assets/08-guide-to-the-yellow-book.pdf)** —
+7. **[A Guide to the Yellow Book](/assets/08-guide-to-the-yellow-book.pdf)** —
    Notes on Di Francesco–Mathieu–Sénéchal's *Conformal Field Theory*.
