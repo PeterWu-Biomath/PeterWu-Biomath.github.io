@@ -50,7 +50,6 @@ with computation.
 
 - **[Residues and Duality — TeX typesetting](https://github.com/PeterWu-Biomath/Residues-and-Duality-Tex)** —
   A typesetting project for Robin Hartshorne's *Residues and Duality*.
-  There are alternatives like [an alternative version](https://zhuanlan.zhihu.com/p/2091155695580231224).
 
 - **[Miscellaneous Notes](/notes/)** — Assorted notes, back up from bananaspace.
 
