@@ -59,14 +59,9 @@ $$
 (v,k,\lambda,\mu)=(3250,57,0,1)?
 $$
 
-Every vertex would have $57$ neighbors, adjacent vertices would have no common
-neighbor, and any two distinct nonadjacent vertices would have exactly one common
-neighbor. This is the only unresolved case in the classification of Moore graphs of
+This is the only unresolved case in the classification of Moore graphs of
 diameter $2$: the possible degrees are $2$, $3$, $7$, and $57$, and examples
-are known for the first three. Resolving it would settle whether the Moore
-bound can be attained in this final case, giving a graph in which every vertex
-can reach all $3249$ others within two steps with no overlap in its first and
-second neighborhoods.
+are known for the first three. 
 
 Although the question is finite, a direct search must contend with an enormous
 space of possible graphs on $3250$ vertices. The common-neighbor conditions
