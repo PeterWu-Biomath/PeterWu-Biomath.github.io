@@ -53,7 +53,7 @@ with computation.
 
 - **[Miscellaneous Notes](/notes/)** — Assorted notes, back up from bananaspace.
 
-- [A list of open problems I'm interested in](/assets/open.md)
+- [A list of open problems I'm interested in]({{ '/open/' | relative_url }})
 
 ## Software Projects
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open Problems
-permalink: /assets/open.md
+permalink: /open/
 ---
 
 A list of open problems I'm interested in.
