@@ -53,6 +53,8 @@ with computation.
 
 - **[Miscellaneous Notes](/notes/)** — Assorted notes, back up from bananaspace.
 
+- [A list of open problems I'm interested in](/assets/open.md)
+
 ## Software Projects
 
 - **[Valis_X](https://github.com/PeterWu-Biomath/Valis_X)** — A simplified,
