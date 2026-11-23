@@ -70,9 +70,11 @@ may lead to a contradiction only much later. Moreover, one cannot restrict the
 search to highly symmetric graphs: any such Moore graph would fail to be
 vertex-transitive, ruling out many standard construction methods.
 
-See [Brouwer's discussion of the problem and a claimed nonexistence proof](https://aeb.win.tue.nl/preprints/3250.pdf).
+See [a translation of Makhnev's work](/assets/Makhnev.pdf) [Brouwer's discussion of the problem and a claimed nonexistence proof](https://aeb.win.tue.nl/preprints/3250.pdf).
 
 Update 11/21/2026: We construct a graph with 30 branch parents and 56 leaves per branch using incidence
 in the affine plane over $F_{29}$. It has parent degree 56, leaf degree 30, a perfect matching
 between every pair of leaf sets, and girth five. These properties make it a potential
-30-subgraph under Smith and Montemanni’s definition. [PDF](/assets/thirty_branches.pdf)
+30-subgraph under Smith and Montemanni’s definition. [PDF](/assets/thirty_branches.pdf)  [python code](/assets/semiplane_branches.py)
+
+
