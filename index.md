@@ -2,6 +2,15 @@
 layout: home
 title: Home
 ---
+## Seeking arXiv Endorsement (`math-ph`)
+
+> I am hoping to submit my manuscript, ***Completeness of the Bethe Ansatz*** ([PDF](/assets/Bethe-ansatz.pdf) · [Zenodo](https://zenodo.org/records/23833204) · [GitHub](https://github.com/PeterWu-Biomath/Bethe-ansatz)), to arXiv's **Mathematical Physics (`math-ph`)** archive. While I have recent combinatorics preprints on arXiv, I need an endorsement to submit to `math-ph`.
+>
+> - **Direct link:** [**Endorse me on arXiv →**](https://arxiv.org/auth/endorse?x=SBTCKC)
+> - **Manual fallback:** Visit the [arXiv endorsement form](https://arxiv.org/auth/endorse.php) and enter code **`SBTCKC`**
+>
+> Thank you for taking a look!
+
 
 ## About Me
 
